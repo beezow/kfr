@@ -1,4 +1,4 @@
-# KFR - Fast, modern C++ DSP framework
+# KFR - Fast, modern C++ DSP framework, modified to compile using the android ndk (AKA removed kfr_io)
 
 <p align="center">
   <img width="300" height="auto" src="img/KFR1.png">
